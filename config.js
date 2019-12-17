@@ -7,7 +7,6 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: '//benweisel.com',
     github: 'https://github.com/bweisel',
     linkedin: 'https://linkedin.com/in/benweisel',
   },
