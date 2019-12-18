@@ -1,12 +1,13 @@
 module.exports = {
   title: 'Blog', // Required
   author: 'Ben Weisel', // Required
-  description: 'Software Engineering Leader',
+  description: 'Software Enginee',
   primaryColor: '#3498db', // Required
   showHeaderImage: false,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
+    website: 'https://nflmargins.com',
     github: 'https://github.com/bweisel',
     linkedin: 'https://linkedin.com/in/benweisel',
   },
