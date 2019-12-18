@@ -3,7 +3,7 @@ module.exports = {
   author: 'Ben Weisel', // Required
   description: 'Software Engineer',
   primaryColor: '#1b6394', // Required
-  showHeaderImage: false,
+  showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
@@ -12,5 +12,5 @@ module.exports = {
     linkedin: 'https://linkedin.com/in/benweisel',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://benweisel.com',
 };
