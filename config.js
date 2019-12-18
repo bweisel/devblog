@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Blog', // Required
   author: 'Ben Weisel', // Required
-  description: 'Software Enginee',
-  primaryColor: '#3498db', // Required
+  description: 'Software Engineer',
+  primaryColor: '#1b6394', // Required
   showHeaderImage: false,
   showShareButtons: true,
   postsPerPage: 5, // Required
