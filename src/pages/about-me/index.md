@@ -1,6 +1,6 @@
 ---
 title: About Me
-date: "2019-12-18"
+date: "2022-04-18"
 featuredImage: './featured.jpg'
 ---
 

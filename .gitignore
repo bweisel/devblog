@@ -5,3 +5,9 @@ public
 .intermediate-representation/
 .cache/
 yarn.lock
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/devblog.iml
